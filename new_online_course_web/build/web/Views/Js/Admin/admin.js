@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-//var url = "/new_online_course_web";
+
 var url = "";
 var SizePages = 10;
 
